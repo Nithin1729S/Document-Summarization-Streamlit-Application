@@ -64,8 +64,8 @@ summarized content from them.
 
 1. **Clone the Repository**:
     ```bash
-    https://github.com/Nithin1729S/AniTalk.git
-    cd AniTalk
+    https://github.com/Nithin1729S/Document-Summarization-Streamlit-Application.git
+    cd Document-Summarization-Streamlit-Application
     ```
 
 2. **Install Dependencies**:
